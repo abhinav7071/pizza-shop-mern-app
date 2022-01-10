@@ -1,0 +1,5 @@
+stripe published key :pk_test_51AUx03G5gO5jxH2Tgn0EDzwcOny2zCDnptZlDbKIyq11RmBNiNE18Gw6uOwEj1w7uu3FI2qixL3BwL5N08B3lMAt00rsXvKBnR
+
+stripe secret key :sk_test_51AUx03G5gO5jxH2TkWIeguyTbJ6y0FygMUHCKhNRah5KdKy5yrUtMe3DVWKBIpxzEnK9vdg4PmwW7NXHTMx0hdup00HadyOQAQ
+
+
